@@ -86,6 +86,9 @@ Then we can run tryffle migrate.
 
 ![Image](Images/Image14.gif)
 
+After that we run truffle develop..
+
+![Image](Images/Image15.gif)
 
 
 
