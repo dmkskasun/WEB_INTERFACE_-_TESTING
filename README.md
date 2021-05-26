@@ -80,7 +80,7 @@ Some times it can give error to work, so you have to run bellow comand,
 
 ![Image](Images/Image12.PNG)
 
-![Image](Images/Image1.PNG)
+![Image](Images/Image13.PNG)
 
 
 
