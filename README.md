@@ -74,6 +74,13 @@ that is a Function that handles the winningProposals of your smart contract.
 
 truflle test can compile,can deploy -----> can do all that in one command truffle test
 
+![Image](Images/Image11.gif)
+
+Some times it can give error to work, so you have to run bellow comand,
+
+![Image](Images/Image12.PNG)
+
+![Image](Images/Image1.PNG)
 
 
 
