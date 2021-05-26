@@ -82,6 +82,11 @@ Some times it can give error to work, so you have to run bellow comand,
 
 ![Image](Images/Image13.PNG)
 
+Then we can run tryffle migrate. 
+
+![Image](Images/Image14.gif)
+
+
 
 
 
