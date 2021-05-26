@@ -90,9 +90,10 @@ After that we run truffle develop..
 
 ![Image](Images/Image15.gif)
 
+This is for the webpage that we're going to mpm run development server, run dev, and that will open up a web end point, which is going to display all our web assets.
 
 
-
+![Image](Images/Image16.gif)
 
 
 
